@@ -40,8 +40,6 @@ def process_listing(listing):
     model_number = '.'
     if len(page_split) > 1:
         model_number = page_split[1].split()[1].replace(':','').replace('s:', '').replace(',', '')
-        if model_number == "-1":
-            print('ALERT: ' + str(computer))
     computer['price'] = price
     computer['model_number'] = model_number
     computers[title] = computer 
