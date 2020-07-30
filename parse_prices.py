@@ -2,8 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import urllib
-import tabulate
+import pandas as pd
 from tqdm import tqdm
+import itertools
 
 MICROSOFT_DOMAIN = 'https://www.microsoft.com'
 LISTING_SUBDOMAINS = [
@@ -17,7 +18,6 @@ LISTING_SUBDOMAINS = [
 ]
 
 computers = {}
-
 
 def process_general_page(subdomain):
     print('Processing subdomain: ' + subdomain)
@@ -54,13 +54,13 @@ def check_ebay_prices():
     for computer_name in tqdm(computers):
         computer = computers[computer_name]
         if computer['Model #'] != '.':
-            result_mn = parse_ebay_prices(computer['Model #'])
+            result = parse_ebay_prices(computer['Model #'])
         else:
-            result_title = parse_ebay_prices(computer_name)
-        total_num_matches = result_mn[0]
-        sum_prices = result_mn[1]
-        computer['eBay Min'] = result_mn[2]
-        computer['eBay Max'] = result_mn[3]
+            result = parse_ebay_prices(computer_name)
+        total_num_matches = result[0]
+        sum_prices = result[1]
+        computer['eBay Min'] = result[2]
+        computer['eBay Max'] = result[3]
         if total_num_matches == 0:
             computer['eBay Average'] = '.'
             computer['Margin (%)'] = 0
@@ -98,10 +98,8 @@ def get_best_deals():
     computer_keys = list(computers.keys())
     computer_keys.sort(
         key=lambda computer: computers[computer]['Margin (%)'], reverse=True)
-    header = ['Name'] + list(computers[computer_keys[0]].keys())
-    rows = [[computer] + list(computers[computer].values())
-            for computer in computer_keys]
-    print(tabulate.tabulate(rows, header))
+    data_frame = pd.DataFrame(computers).transpose()
+    data_frame.to_csv('margins.csv')
 
 
 if __name__ == '__main__':

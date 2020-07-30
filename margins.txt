@@ -1,0 +1,63 @@
+Name                                                                     MS Price  Model #              eBay Min    eBay Max    eBay Average          Margin (%)    # Listings
+---------------------------------------------------------------------  ----------  -------------------  ----------  ----------  ------------------  ------------  ------------
+ASUS ROG Strix G GL531GT-RS73 Gaming Laptop                                699     GL531GT-RS73         918.75      918.75      918.75                  23.9184              1
+Acer Swift 3 SF314-55 Laptop                                               799     SF314-55-58P9        999.0       999.0       999.0                   20.02                1
+Surface Pro X                                                              849.99  .                    993.88      993.88      993.88                  14.4776              1
+Samsung Galaxy Book S                                                      899.99  SM-W767NZAAXSA       993.88      993.88      993.88                   9.44681             1
+Surface Laptop 3                                                           979     .                    993.88      993.88      993.88                   1.49716             1
+HP ENVY x360 Convertible 15-dr1058ms 2-in-1 PC                             659     15-dr1058ms          .           .           .                        0                   0
+HP ENVY x360 Convertible 15-dr1072ms 2-in-1 PC                             759     5-dr1072ms           .           .           .                        0                   0
+Lenovo IdeaPad 5 15" 81YK00CGUS Laptop                                     599     81YK00CGUS           599.0       599.0       599.0                    0                   1
+Samsung Notebook 9 Pro                                                     949     NP930MBE-K05US       .           .           .                        0                   0
+Lenovo IdeaPad Flex 5 14 81X20002US 2-in-1 PC                              669     81X20002US           .           .           .                        0                   0
+Lenovo IdeaPad S740 15 Laptop                                             1299.99  81NW0000US           .           .           .                        0                   0
+Razer Blade Stealth 13 Full HD Gaming Laptop (10th Gen Intel Core i7)     1499.99  RZ09-03101           .           .           .                        0                   0
+Acer Predator Triton 500 PT515-51-75BH Gaming Laptop                      1659.99  PT515-51-75BH        .           .           .                        0                   0
+MAINGEAR ELEMENT Gaming Laptop                                            1799     MG-ELMT001-2070      .           .           .                        0                   0
+Lenovo ThinkCentre M920z 10S60042US All-in-One PC                          999     10S60042US           .           .           .                        0                   0
+Asus ZenBook 14 UX434FL-UB76T Laptop                                      1249     UX434FL-UB76T        .           .           .                        0                   0
+Acer TravelMate P6 NX.VKLAA.001 Laptop                                    1199     NX.VKLAA.001         .           .           .                        0                   0
+Acer TravelMate X3 NX.VHJAA.004 Laptop                                     799     NX.VHJAA.004         .           .           .                        0                   0
+Acer Spin 5 NX.GR7AA.015 2-in-1 PC                                         899     NX.GR7AA.015         .           .           .                        0                   0
+Razer Blade Pro 17 Gaming Laptop 2019 - Intel Core i7- 9750H 6 Core       2499.99  RZ09-02876E92-R3U1   .           .           .                        0                   0
+Lenovo Ideapad L340 81LK000HUS Gaming Laptop                               699     81LK000HUS           .           .           .                        0                   0
+HoloLens 2                                                                3500     .                    .           .           .                        0                   0
+Surface Book 3 for Business                                               1699.99  .                    .           .           .                        0                   0
+Surface Go 2 for Business                                                  449.99  .                    .           .           .                        0                   0
+Surface Pro X for Business                                                1099.99  .                    .           .           .                        0                   0
+Surface Pro 7 for Business                                                 999.99  .                    .           .           .                        0                   0
+Surface Laptop 3 for Business                                             1099.99  .                    .           .           .                        0                   0
+Surface Laptop 2 for Business                                             1399     .                    .           .           .                        0                   0
+Surface Pro 6 for Business                                                 999     .                    .           .           .                        0                   0
+Surface Studio 2 for Business                                             3499.99  .                    .           .           .                        0                   0
+Surface Book 2 for Business                                               1499.99  .                    .           .           .                        0                   0
+Surface Go for Business                                                    449.99  .                    .           .           .                        0                   0
+Wacom MobileStudio Pro 13" Creative Pen All-in-One PC                     2599.95  DTHW1321HK0A         .           .           .                        0                   0
+Wacom MobileStudio Pro 16" Creative Pen All-in-One PC                     3499.95  DTHW1621HK0A         .           .           .                        0                   0
+ASUS VivoBook Flip TP412FA-XB55T 2-in-1 PC                                 749     TP412FA-XB55T        .           .           .                        0                   0
+HP EliteBook 745 G6 7RR36UT#ABA Laptop                                    1199     7RR36UT#ABA          .           .           .                        0                   0
+Lenovo ThinkBook Plus 20TG000MUS Laptop                                   1299     .                    .           .           .                        0                   0
+ASUS ROG Zephyrus Duo 15 GX550LWS-XS79 Gaming Laptop                      2999.99  GX550LWS-XS79        .           .           .                        0                   0
+ASUS ROG Zephyrus Duo 15 GX550LXS-XS99 Gaming Laptop                      3699.99  GX550LXS-XS99        .           .           .                        0                   0
+MSI GS75 Stealth Gaming Laptop                                            2099     GS75237              .           .           .                        0                   0
+Dell Inspiron 14 5481 (2-in-1) Touch Laptop i3481-3236GRY-PUS              449     .                    .           .           .                        0                   0
+MSI Trident X Plus 9SE-062US Gaming PC                                    2499     9SE-062US            .           .           .                        0                   0
+Razer Blade 15 Gaming Laptop                                              2599.99  .                    .           .           .                        0                   0
+Dell Vostro 5000 5581 Laptop                                               949     v5581-5612GRY-PUS    .           .           .                        0                   0
+Dell Vostro 3000 3583 Laptop                                               529     v3583-3643BLK-PUS    .           .           .                        0                   0
+Dell XPS 15 7590 Laptop                                                   2499     XPS7590-7701SLV-PUS  .           .           .                        0                   0
+Surface Go 2                                                               399.99  .                    .           .           .                        0                   0
+Lenovo Flex 14 2-in-1 PC                                                   599.99  81XG0000US           19.99       749.99      524.9925000000001      -14.2854              4
+HP OMEN Obelisk Gaming Desktop                                             999.99  875-0142             870.0       870.0       870.0                  -14.9414              1
+Acer Spin 5 SP513-53N 2-in-1 PC                                            949     SP513-53N-70KD       804.99      804.99      804.99                 -17.8897              1
+Asus Zenbook S UX392FN-XS77 Laptop                                        1299     UX392FN-XS77         999.0       999.0       999.0                  -30.03                1
+HP 250 G7 Notebook                                                         599     5YN09UT              24.61       689.95      451.2844444444445      -32.7323              9
+ASUS TUF FX505DT-UB52 Gaming Laptop                                        499     FX505DT-UB52         118.88      619.99      369.435                -35.0711              2
+Surface Book 3                                                            1399.99  .                    993.88      993.88      993.88                 -40.8611              1
+Lenovo IdeaPad S540-14API Notebook                                         799     S540-14API           7.51        897.03      304.01666666666665    -162.815               3
+Samsung Galaxy Book Ion 15 NP950XCJ-K01US Laptop                          1149     NP950XCJ-K01US       19.99       799.0       409.495               -180.59                2
+Samsung Notebook 9 Pro 15 NP940X5N-X01US Laptop                            999     NP940X5N-X01US       14.99       899.99      287.2323809523809     -247.802              21
+iBUYPOWER Trace PRO9500 Gaming Desktop                                    1149     PRO9500              3.99        399.95      89.94859999999993    -1177.4                50
+Asus ROG Strix G GL531GT-UB74 Gaming PC                                   1099     GL531GT-UB74         78.99       78.99       78.99                -1291.32                1
+Lenovo IdeaPad S940-14IWL Notebook                                        1199     S940-14IWL           23.29       34.99       29.14                -4014.62                2
+Samsung Galaxy Book Ion 13 NP930XCJ-K01US Laptop                          1049     NP930XCJ-K01US       19.99       19.99       19.99                -5147.62                1
