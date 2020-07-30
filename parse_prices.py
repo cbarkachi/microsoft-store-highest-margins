@@ -98,7 +98,7 @@ def get_best_deals():
     computer_keys = list(computers.keys())
     computer_keys.sort(
         key=lambda computer: computers[computer]['Margin (%)'], reverse=True)
-    data_frame = pd.DataFrame(computers).transpose()
+    data_frame = pd.DataFrame(({**{'Name': computer}, **computers[computer]} for computer in computer_keys))
     data_frame.to_csv('margins.csv')
 
 
